@@ -12,7 +12,8 @@ foreach($arr5 as $key=>$val){
 echo "List of arr6 elements:"."<br>";
 foreach($arr6 as $key=>$val){
 	echo $key."=".$val."<br>";
-}
+} 
+#List of arr6 elements  
 echo "List of arr6 elements (without keys):"."<br>";
 foreach($arr6 as $x){
 	echo $x."<br>";
@@ -29,5 +30,9 @@ for ($i=0;$i<$size=sizeof($arr7);$i++){
 echo "List of arr7 elements (foreach):"."<br>";
 foreach($arr7 as $a=>$x){
 	echo $a."=>".$x."<br>";
+
+#echo "List of arr7 elements (foreach):"."<br>";
+#foreach($arr7 as $a=>$x){
+	#echo $a."=>".$x."<br>";
 }
 ?>
