@@ -55,4 +55,17 @@ var_dump($var1);
 echo "<br>";
 echo "var1 print_r:"."<br>";
 print_r($var1);
+
+echo "arr3 var_dump:"."<br>";
+var_dump($arr4);
+echo "<br>";
+echo "arr3 print_r:"."<br>";
+print_r($arr4);
+echo "<br>";
+$var1=23;
+echo "var1 var_dump:"."<br>";
+var_dump($var1);
+echo "<br>";
+echo "var1 print_r:"."<br>";
+print_r($var1);
 ?>
