@@ -1,4 +1,5 @@
 <?php
+#my lab php
 $arr5=array(0=>"http://www.yandex.com", 
 	1=>"http://www.google.com",
     "2"=>"http://www.altavista.com"); 
